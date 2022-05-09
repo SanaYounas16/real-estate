@@ -1,0 +1,37 @@
+.bg-navbar {
+	background-color: #0C2D48;
+}
+.nav-link {
+    padding: 15px ;
+    color: white;
+  }
+  .nav-item {
+padding: 3px 15px;
+  }
+.container h1 {
+  color: black;
+  text-align: center;
+}
+.container p {
+  color: #777;
+  text-align: center;
+}
+.col-md-2 h5 {
+  color: black;
+}
+.col-md-2 p {
+  color: #777;
+}
+.fa {
+  color: #777;
+}
+.card:hover {
+transform: rotate(50deg); 
+}
+.card .fa:hover {
+  color: #fdc632;
+}
+/*.fa:hover {
+color: yellow;
+transform: rotate(90deg);
+}*/
